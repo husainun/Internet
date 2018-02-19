@@ -1,0 +1,188 @@
+*{
+  padding:0px;
+  margin:0px;
+  font-family: Arial;
+
+}
+#wrapper{
+  width:960px;
+}
+
+#header{
+  height: 60px;
+  /* margin-bottom: 20px; */
+}
+#header img{
+  width:80px;
+}
+
+#header h1{
+  display: Inline-block;
+  vertical-align: top;
+}
+#header span{
+  color:#30679c;
+
+}
+#header div{
+  height:35px;
+  background-color:#30679c;
+  color:white;
+  padding:12px;
+  margin-top: -20px;
+}
+
+#header h2{
+  font-weight: normal;
+}
+#main-content{
+  width:960px;
+
+}
+#side-bar{
+  width:200px;
+  margin-top:60px;
+  padding-top:10px;
+  display: inline-block;
+}
+#side-bar p{
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.blue-span{
+  color:lightblue;
+}
+
+.red-span{
+color:red;
+}
+
+.MyButton {
+  color:white;
+  border-radius:10px;
+  padding: 5px 10px;
+  margin: 2px;
+  width:auto;
+  text-align: center;
+  width:200px;
+  box-shadow: 2px 2px 2px grey;
+}
+
+.Blue-Button{
+  margin-top:10px;
+  background-color: #30679c;
+
+}
+
+.Orange-Button{
+  background-color: Orange;
+}
+
+.lightblue-Button{
+  background-color: lightblue;
+  width:150px;
+}
+
+#Advertisement {
+  padding:10px;
+  background-image: url('./images/ad_background.png');
+  color:white;
+  text-align:center;
+  height:240px;
+}
+
+#Advertisement h2{
+  font-weight: normal;
+}
+#Advertisement img{
+  width:60px;
+  height:90px;
+}
+#line{
+  margin:20px 0px;
+}
+
+
+#right-content {
+  width:720px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top:60px;
+  padding:10px;
+}
+#header-right-content{
+  display:inline-block;
+  /* width:750px; */
+  border-bottom: 2px solid grey;
+}
+#header-right-content p{
+  display:inline-block;
+  vertical-align:top;
+}
+
+#contactInfo{
+  display:inline-block;
+  /* vertical-align: top; */
+}
+#home-img {
+  width:20px;
+  vertical-align: top;
+}
+
+#phone-img{
+  width: 50px;
+  height:50px;
+  margin-left:420px;
+  vertical-align: top;
+}
+
+#contactInfo h2 {
+color:lightblue;
+}
+
+#contactInfo p {
+  font-size:8px;
+}
+
+#client-info-div{
+  padding:10px;
+}
+#client-info-div ul{
+  margin-left:30px;
+}
+#client-info-div h2{
+  color:#30679c;
+
+}
+
+#client-info-div img{
+  width:300px;
+  /* height:100px; */
+  margin 10px auto;
+  margin-left:200px;
+  padding-right:10px;
+}
+
+#border-info-div{
+  height:150px;
+  border: 2px solid blue;
+  padding:10px;
+  display:inline-block;
+  width:720px;
+}
+#border-info-div img{
+  width:130px;
+  /* height:100px; */
+}
+#border-info-div h3{
+  color:Blue;
+  /* height:100px; */
+}
+
+
+#both{
+  width:500px;
+  display:inline-block;
+  vertical-align: top;
+}
